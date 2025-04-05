@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Felipe-Vicente-Rezende-MB
+- 👋 Hi, I’m @Felipe-Vicente-Rezende
 - 👀 I’m interested in expanding my knowledge about programming.
 - 🌱 I’m currently learning the C++ programming language.
 - 💞️ I’m looking to collaborate on ...
